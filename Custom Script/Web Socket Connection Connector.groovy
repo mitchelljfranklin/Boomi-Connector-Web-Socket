@@ -2,8 +2,8 @@
 Script Name: WebSocket Client Process Script
 Creation Date: 08-10-2019
 Author: Mitchell Franklin
-Updated Date: 2025-07-15
-Updated By: Claude
+Updated Date: 2024-07-15
+Updated By: Mitchell franklin
 Description:
   Provides WebSocket connectivity for Dell Boomi processes.
   Supports ws:// and wss:// with an optional persistent-connection
